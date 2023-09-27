@@ -70,7 +70,7 @@ namespace aula13_banco
                 }
                 else
                 {
-                    MessageBox.Show("Erro!");
+                    MessageBox.Show("Erro!!");
                 }
             }
             
